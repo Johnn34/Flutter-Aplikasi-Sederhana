@@ -1,0 +1,4 @@
+#Mon Apr 18 20:10:26 SGT 2022
+base.0=E\:\\Project Flutter\\zero_to_hero\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
